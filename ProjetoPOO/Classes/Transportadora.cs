@@ -23,25 +23,24 @@ public class Transportadora
         switch (v)
         {
             case 1:
-                this.Alteracao();
+                this.Adicione();
                 break;
             case 2:
-            this.
+                this.Alteracao();
+                break;
         }
            
     }
 
+    public void Adicione()
+    {
+
+    }
     public void Alteracao()
     {
 
     }
     
-
-    public void Alteracao()
-    {
-
-    }
-
     public void Exclusao()
     {
 

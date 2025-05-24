@@ -18,7 +18,7 @@ public static class Menu
         if (user == "admin" && password == "admin")
         {
             System.Console.WriteLine("É admin");
-            AdminMenu.Men
+            // AdminMenu.Men
             //chamar tela admin
         }
         else
